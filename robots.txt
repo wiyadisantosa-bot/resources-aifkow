@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiyadisantosa-bot.github.io/resources-aifkow/sitemap.xml
